@@ -4,4 +4,4 @@ Git is free software distributed under the GPL .
 a branch is made.
 add anoter line.
 git diff-cache.
-
+git clone.
